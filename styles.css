@@ -1,5 +1,5 @@
 body {
-    font-size: 16px;
+    font-size: 22px;
     font-family: cursive;
     background-color:burlywood;
     margin-bottom: 2.5rem;
@@ -20,7 +20,7 @@ body {
   }
   
   p {
-    font-size: 18px;
+    font-size: 24px;
   }
   
   label {
@@ -37,6 +37,7 @@ body {
   
   textarea {
     display: block;
+    font-size: 16px;
   }
   
   button {
@@ -44,7 +45,8 @@ body {
     width: 100%;
     background-color: #7d550b;
     color: white;
-    margin-top: 2em
+    margin-top: 2em;
+    font-size: 20px;
   }
   
   
